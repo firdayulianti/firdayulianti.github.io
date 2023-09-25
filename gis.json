@@ -1,0 +1,3836 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah tiga"
+        },
+        "geometry": {
+          "coordinates": [
+            107.550033137372,
+            -7.00506911061899
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah empat"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54990105283679,
+            -7.005075731759405
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah satu"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54992106564413,
+            -7.004983035789934
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah dua"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54999844850511,
+            -7.004951254310257
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "spbu"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54486786103172,
+            -7.005763156592678
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "alfamart"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54136607098053,
+            -7.001383822957322
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "indomart"
+        },
+        "geometry": {
+          "coordinates": [
+            107.53712890501828,
+            -7.003573494915514
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "minimarket"
+        },
+        "geometry": {
+          "coordinates": [
+            107.53380220446928,
+            -7.006632067107219
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "alfamidi"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54133105307977,
+            -7.004129600442269
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "parungserab"
+        },
+        "geometry": {
+          "coordinates": [
+            107.53567572836289,
+            -7.012776214807587
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sekarwangi"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54265190851737,
+            -7.015355733727148
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasar"
+        },
+        "geometry": {
+          "coordinates": [
+            107.53697521290258,
+            -6.990713956791595
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sangkanhurip"
+        },
+        "geometry": {
+          "coordinates": [
+            107.556467480979,
+            -6.999267448339765
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl raya soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54880736159396,
+            -7.016034552120573
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "stadion si jalak harupat"
+        },
+        "geometry": {
+          "coordinates": [
+            107.53165180547256,
+            -6.991581136731369
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kutawaringin"
+        },
+        "geometry": {
+          "coordinates": [
+            107.50974077538473,
+            -6.998116234578092
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sukamulya"
+        },
+        "geometry": {
+          "coordinates": [
+            107.49937890893898,
+            -7.005722544710579
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "ramayana"
+        },
+        "geometry": {
+          "coordinates": [
+            107.49700431454505,
+            -6.98247470042935
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cihideung"
+        },
+        "geometry": {
+          "coordinates": [
+            107.55054062451558,
+            -7.0258625972586515
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "karyamukti"
+        },
+        "geometry": {
+          "coordinates": [
+            107.47887104826401,
+            -7.030254726964884
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.52916929533944,
+            -7.037609192425705
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cilame"
+        },
+        "geometry": {
+          "coordinates": [
+            107.49634993493805,
+            -7.036587321576633
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.56790901094911,
+            -6.985618665588234
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nanggerang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.46945092974676,
+            -7.016532651298789
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sadu"
+        },
+        "geometry": {
+          "coordinates": [
+            107.46893611624972,
+            -6.99328348104298
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "buniaraga"
+        },
+        "geometry": {
+          "coordinates": [
+            107.45376259202908,
+            -7.033805755705345
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "situwangi"
+        },
+        "geometry": {
+          "coordinates": [
+            107.50691774573266,
+            -6.966248828929125
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " kamasan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.572567099877,
+            -7.048904967362745
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rawabogo"
+        },
+        "geometry": {
+          "coordinates": [
+            107.45178495505854,
+            -7.0574524407970785
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Batulayang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.4649089911677,
+            -6.970749351506157
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "bandung indah golf"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5934835085784,
+            -6.98377620795921
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "langorsari"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5959442653492,
+            -7.028553217121612
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "baleendah"
+        },
+        "geometry": {
+          "coordinates": [
+            107.62383284208039,
+            -7.020005211356079
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tanjung"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54078230107632,
+            -6.955890175402089
+          ],
+          "type": "Point"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rancamulya"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59819995905548,
+            -7.000466323061801
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kindangpananjung"
+        },
+        "geometry": {
+          "coordinates": [
+            107.48356970616277,
+            -6.983369124535955
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " Jalan Tol Padaleunyi"
+        },
+        "geometry": {
+          "coordinates": [
+            107.61665563483382,
+            -6.962607400583423
+          ],
+          "type": "Point"
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rancatungku"
+        },
+        "geometry": {
+          "coordinates": [
+            107.58466579681743,
+            -7.014713510028088
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "bojong manggu"
+        },
+        "geometry": {
+          "coordinates": [
+            107.6084531122649,
+            -7.046462814387169
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44919905310746,
+              -6.985007521969592
+            ],
+            [
+              107.50534135038015,
+              -6.9652963018399845
+            ],
+            [
+              107.52421889138509,
+              -6.958482353921383
+            ],
+            [
+              107.54138029188118,
+              -6.955075341582116
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61733760430815,
+              -6.9633652288706855
+            ],
+            [
+              107.5690259224474,
+              -6.974238694758498
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59879940080361,
+              -7.000445497463815
+            ],
+            [
+              107.60891114816889,
+              -7.045885716510796
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cangkuang wetan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61537143120864,
+              -6.978420729831441
+            ],
+            [
+              107.59402440899169,
+              -6.983439122597346
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl cikoneng"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.62492141483256,
+              -7.020517798014126
+            ],
+            [
+              107.62773023354504,
+              -7.057872272280335
+            ],
+            [
+              107.45245994586861,
+              -7.058429778950909
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl mekarmukti"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59351354198236,
+              -6.984906858274883
+            ],
+            [
+              107.48548094577541,
+              -6.95426848411212
+            ],
+            [
+              107.46627515089557,
+              -6.926011323012901
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl tanjungjaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44021014355678,
+              -6.928054066206158
+            ],
+            [
+              107.41277329372701,
+              -6.991374703185642
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nanggerang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.46970475712408,
+              -7.015883618071626
+            ],
+            [
+              107.4138021755947,
+              -7.025414514570926
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl mekarsari"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.39802598694337,
+              -7.008054521399686
+            ],
+            [
+              107.37607650707741,
+              -6.9675453587944105
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl gempong"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.55373010972755,
+              -6.935203597675667
+            ],
+            [
+              107.53452431484789,
+              -6.904221512327567
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl mekarjaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.43952422231024,
+              -6.904221512327567
+            ],
+            [
+              107.45530041096373,
+              -6.94337435790267
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl ciapus"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.63192513174403,
+              -7.085318522687174
+            ],
+            [
+              107.59454242385004,
+              -7.0747678114594095
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 51
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl buah batu"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.64237231740412,
+              -6.953218880532461
+            ],
+            [
+              107.60136217852607,
+              -6.922121064749646
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 51
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "karangmekar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.48402761451177,
+              -6.822028775325904
+            ],
+            [
+              107.58028752382506,
+              -6.930037067190057
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 52
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl buniaraga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.2892294548389,
+              -7.035194141360449
+            ],
+            [
+              107.3809326820529,
+              -7.051587462246999
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 53
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl sukaresmi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.28979904010174,
+              -6.942476230967088
+            ],
+            [
+              107.34106171369888,
+              -6.859353786337934
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 54
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl rumah sakit"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.72610135094874,
+              -7.0498916283477655
+            ],
+            [
+              107.68509121207069,
+              -6.899503183783025
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 55
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl sukamaju"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.41169028621192,
+              -7.055544383862994
+            ],
+            [
+              107.42649950303024,
+              -7.119415711408735
+            ],
+            [
+              107.51136770709888,
+              -7.118850517302164
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 56
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl cimaung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.61958890691625,
+              -7.101329154917394
+            ],
+            [
+              107.54611240809248,
+              -7.117154930807473
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl sukawening"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.48349054685735,
+              -6.984456015079857
+            ],
+            [
+              107.50001269094889,
+              -7.005228299154254
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl gunung sinday"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.50799839392528,
+              -6.997848777752509
+            ],
+            [
+              107.52204221640375,
+              -6.999761998212804
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl dayeuhkolot"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.58537710208651,
+              -7.014247555587971
+            ],
+            [
+              107.62145045001972,
+              -6.960129404473818
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl pananjung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.49780973840251,
+              -6.982269405143114
+            ],
+            [
+              107.46669303369731,
+              -6.9727028665457595
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 61
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl cirangrang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.37605584385909,
+              -7.023054899857726
+            ],
+            [
+              107.44687875354094,
+              -6.973743309834674
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 62
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl sindangasri"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.59380986467113,
+              -6.924776310635693
+            ],
+            [
+              107.54448047484362,
+              -6.921278472909677
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 63
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl rawabogo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.46308698162613,
+              -7.068864529992723
+            ],
+            [
+              107.41058641673885,
+              -7.035294556968793
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl cipongporang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.36212518783083,
+              -7.021163083020824
+            ],
+            [
+              107.318580438411,
+              -7.015288726086183
+            ],
+            [
+              107.39256423596845,
+              -6.903661931893566
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 65
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl laswi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.67116607934292,
+              -6.953183860124668
+            ],
+            [
+              107.68765389708364,
+              -7.02493941617081
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 66
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl suekarno hatta"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.66440117992431,
+              -6.937656633054985
+            ],
+            [
+              107.73753944836722,
+              -6.93471893986171
+            ],
+            [
+              107.67201094195974,
+              -6.894848438243713
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 67
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cibabat"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.6284661925398,
+              -6.918351456918373
+            ],
+            [
+              107.55363686586645,
+              -6.87428234039082
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 68
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl cikande"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.39587231911736,
+              -6.899008673086058
+            ],
+            [
+              107.47653891229811,
+              -6.845462108088071
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 69
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl girimukti"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4057211473542,
+              -6.922753475518903
+            ],
+            [
+              107.49811253605588,
+              -6.858500087712429
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 70
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl citeureup"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.54782566906334,
+              -6.872468955594229
+            ],
+            [
+              107.62755427860282,
+              -6.841736905603739
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl margamulya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.40855145558231,
+              -7.140061359528403
+            ],
+            [
+              107.55662902040496,
+              -7.152365615032181
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 72
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl cirawamekar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4814960687965,
+              -6.9062182510709675
+            ],
+            [
+              107.4391881931312,
+              -6.7990314552572215
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 73
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl sindangsari"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.29329896670293,
+              -6.82003616869909
+            ],
+            [
+              107.43189373181042,
+              -6.8004800856924845
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 74
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl cipada"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5952896654099,
+              -6.8142418568537835
+            ],
+            [
+              107.48003717653052,
+              -6.774404070490647
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl majalaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.68878862004578,
+              -7.0220076663408975
+            ],
+            [
+              107.72746622252703,
+              -6.947484821860527
+            ],
+            [
+              107.78510343406862,
+              -7.05286717406139
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 76
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl kadakajaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.74308970308942,
+              -6.852768990121888
+            ],
+            [
+              107.90129126386057,
+              -6.873851929490371
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah satu"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54988741646542,
+                -7.0049763364609845
+              ],
+              [
+                107.54987542948447,
+                -7.005024917939792
+              ],
+              [
+                107.54990539693858,
+                -7.005031858151284
+              ],
+              [
+                107.54992137958112,
+                -7.004985259590413
+              ],
+              [
+                107.54988741646542,
+                -7.0049763364609845
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 78
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah dua"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5499663307616,
+                -7.004872233274455
+              ],
+              [
+                107.54994735137387,
+                -7.0049376695658765
+              ],
+              [
+                107.54999629821737,
+                -7.004954524366923
+              ],
+              [
+                107.55001927326492,
+                -7.004885122241973
+              ],
+              [
+                107.5499663307616,
+                -7.004872233274455
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 79
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah tiga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.55003225916215,
+                -7.005063584827681
+              ],
+              [
+                107.5500122808582,
+                -7.005125055258247
+              ],
+              [
+                107.55005023963531,
+                -7.005143892969073
+              ],
+              [
+                107.55007121685213,
+                -7.005080439624294
+              ],
+              [
+                107.55003225916215,
+                -7.005063584827681
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 103
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah empat "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54990140127722,
+                -7.005076473789927
+              ],
+              [
+                107.54989041321068,
+                -7.005125055258247
+              ],
+              [
+                107.54992237849558,
+                -7.005131004009527
+              ],
+              [
+                107.54992637415711,
+                -7.00507845670667
+              ],
+              [
+                107.54990140127722,
+                -7.005076473789927
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 104
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gedung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54082783903192,
+                -6.955895330453345
+              ],
+              [
+                107.54069556308798,
+                -6.957405305046308
+              ],
+              [
+                107.54205800531486,
+                -6.9574315654312215
+              ],
+              [
+                107.54260033668515,
+                -6.956000372322052
+              ],
+              [
+                107.54082783903192,
+                -6.955895330453345
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 105
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kantor desa rawabogo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44158378827069,
+                -7.059121557527789
+              ],
+              [
+                107.44120338102675,
+                -7.064784378486181
+              ],
+              [
+                107.45286920318671,
+                -7.065413576534297
+              ],
+              [
+                107.45248879594112,
+                -7.059373239930935
+              ],
+              [
+                107.44158378827069,
+                -7.059121557527789
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 106
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kantor kecamatan soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.52885212347292,
+                -7.037511622136165
+              ],
+              [
+                107.52877842388278,
+                -7.037554289670837
+              ],
+              [
+                107.52883676939103,
+                -7.037590861840286
+              ],
+              [
+                107.5287968487803,
+                -7.037715816730255
+              ],
+              [
+                107.52885826510544,
+                -7.037746293526482
+              ],
+              [
+                107.52891968142927,
+                -7.03755124199057
+              ],
+              [
+                107.52885212347292,
+                -7.037511622136165
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 89
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl parungserab"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5341294653748,
+              -7.054531373471846
+            ],
+            [
+              107.5349298621079,
+              -7.0539610127513015
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 85
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "indomart sanggar indah"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5419584176176,
+            -7.052071921221085
+          ],
+          "type": "Point"
+        },
+        "id": 107
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl panyirapan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.5186471161391,
+              -7.055699799238624
+            ],
+            [
+              107.5187712582088,
+              -7.053441091005553
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 108
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "panyirapan "
+        },
+        "geometry": {
+          "coordinates": [
+            107.51870918717395,
+            -7.0531946858046695
+          ],
+          "type": "Point"
+        },
+        "id": 109
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "apotek panyirapan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.51763328924494,
+                -7.05294828047181
+              ],
+              [
+                107.51713672097037,
+                -7.0541597720932145
+              ],
+              [
+                107.51812985751951,
+                -7.054282974453216
+              ],
+              [
+                107.51870918717395,
+                -7.053071483154113
+              ],
+              [
+                107.51763328924494,
+                -7.05294828047181
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 110
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl raya soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.49645967901807,
+              -7.037174796381905
+            ],
+            [
+              107.50326757285245,
+              -7.033500134788028
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 103
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "klinik cilame"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.49608379095423,
+                -7.0364788979892126
+              ],
+              [
+                107.49603232631415,
+                -7.036535351541801
+              ],
+              [
+                107.49621109822243,
+                -7.036637505571775
+              ],
+              [
+                107.49625443686494,
+                -7.036575675503627
+              ],
+              [
+                107.49608379095423,
+                -7.0364788979892126
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa buniaraga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44671283207157,
+                -7.034941026988392
+              ],
+              [
+                107.44650637966282,
+                -7.038424282678946
+              ],
+              [
+                107.45118596759892,
+                -7.038902374557068
+              ],
+              [
+                107.45139242000766,
+                -7.035145925106136
+              ],
+              [
+                107.44671283207157,
+                -7.034941026988392
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 113
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "minimart"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.46353616752128,
+                -7.017215214449607
+              ],
+              [
+                107.46345472885605,
+                -7.019033855465011
+              ],
+              [
+                107.46602004679391,
+                -7.019276340397639
+              ],
+              [
+                107.46650867878151,
+                -7.017417286023985
+              ],
+              [
+                107.46353616752128,
+                -7.017215214449607
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 114
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "indomart sanggar indah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.53989119247103,
+                -7.052493377418628
+              ],
+              [
+                107.5399396212178,
+                -7.054079431909443
+              ],
+              [
+                107.54347491979428,
+                -7.0540313697315895
+              ],
+              [
+                107.54347491979428,
+                -7.05263756441488
+              ],
+              [
+                107.53989119247103,
+                -7.052493377418628
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 115
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rancapangung"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44087844802579,
+            -6.985231203053971
+          ],
+          "type": "Point"
+        },
+        "id": 115
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasar desa mukapayung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.43844826820077,
+                -6.987522738218601
+              ],
+              [
+                107.43832675883493,
+                -6.988578047178322
+              ],
+              [
+                107.4395114751432,
+                -6.988517743874354
+              ],
+              [
+                107.43972411653198,
+                -6.987522738218601
+              ],
+              [
+                107.43844826820077,
+                -6.987522738218601
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 116
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cibodas"
+        },
+        "geometry": {
+          "coordinates": [
+            107.51897010748263,
+            -6.990348039074888
+          ],
+          "type": "Point"
+        },
+        "id": 116
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl tanjungjaya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.47744096136148,
+              -6.927570886534866
+            ],
+            [
+              107.47971835041966,
+              -6.9248550273121054
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 98
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik dua"
+        },
+        "geometry": {
+          "coordinates": [
+            107.55180294135494,
+            -7.008321998153193
+          ],
+          "type": "Point"
+        },
+        "id": 117
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik tiga"
+        },
+        "geometry": {
+          "coordinates": [
+            107.55155154126345,
+            -7.007661498961525
+          ],
+          "type": "Point"
+        },
+        "id": 118
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah penduduk"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5498952583136,
+            -7.007544076785976
+          ],
+          "type": "Point"
+        },
+        "id": 119
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "smkn 1 katapang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54757350453349,
+            -7.008997174136809
+          ],
+          "type": "Point"
+        },
+        "id": 120
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sd at taqwim katapang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54619819815383,
+            -7.010186068600518
+          ],
+          "type": "Point"
+        },
+        "id": 121
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik tas"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.55195082376082,
+                -7.008189898389759
+              ],
+              [
+                107.55177336487304,
+                -7.008498131112958
+              ],
+              [
+                107.55203955320468,
+                -7.008630230788981
+              ],
+              [
+                107.55223180033397,
+                -7.008307320404072
+              ],
+              [
+                107.55195082376082,
+                -7.008189898389759
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 123
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik kain"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.551758576633,
+                -7.007602787877474
+              ],
+              [
+                107.55138887061736,
+                -7.007881665462747
+              ],
+              [
+                107.55168463542924,
+                -7.007925698750469
+              ],
+              [
+                107.55208391792655,
+                -7.008057798588837
+              ],
+              [
+                107.55226137681427,
+                -7.0077495655745
+              ],
+              [
+                107.551758576633,
+                -7.007602787877474
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 124
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rumah warga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54948118757466,
+                -7.007881665462747
+              ],
+              [
+                107.55008750544147,
+                -7.009041207319186
+              ],
+              [
+                107.5503536937731,
+                -7.00789634322679
+              ],
+              [
+                107.54948118757466,
+                -7.007881665462747
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 125
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gedung sekolah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5476918104576,
+                -7.008879752297759
+              ],
+              [
+                107.5477805399014,
+                -7.009525572050677
+              ],
+              [
+                107.54865304609979,
+                -7.009863159293602
+              ],
+              [
+                107.54888965794959,
+                -7.009114595947693
+              ],
+              [
+                107.5476918104576,
+                -7.008879752297759
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 126
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "bangunan sekolah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54584053911384,
+                -7.0097272258309005
+              ],
+              [
+                107.54569667961778,
+                -7.010167476938577
+              ],
+              [
+                107.54638001222372,
+                -7.01042924767134
+              ],
+              [
+                107.54655983659251,
+                -7.009929503419116
+              ],
+              [
+                107.54584053911384,
+                -7.0097272258309005
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 127
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl rasa bandung soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.54839889313723,
+              -7.015983640298444
+            ],
+            [
+              107.55199032076752,
+              -7.004995841012487
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "dragonstrom soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54871063891659,
+            -7.018611762075082
+          ],
+          "type": "Point"
+        },
+        "id": 128
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik sepatu"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.55101255330788,
+                -7.008861606240529
+              ],
+              [
+                107.55086665709166,
+                -7.009215576270421
+              ],
+              [
+                107.5514340312647,
+                -7.009408650718768
+              ],
+              [
+                107.55157992748087,
+                -7.009167307645882
+              ],
+              [
+                107.55101255330788,
+                -7.008861606240529
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 113
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik lima"
+        },
+        "geometry": {
+          "coordinates": [
+            107.55294162549859,
+            -7.007252648172766
+          ],
+          "type": "Point"
+        },
+        "id": 130
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik busa"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.55273088652012,
+                -7.006625153021545
+              ],
+              [
+                107.55255256892212,
+                -7.007510081837168
+              ],
+              [
+                107.55321720724078,
+                -7.007590529827823
+              ],
+              [
+                107.55346036760102,
+                -7.006930855892861
+              ],
+              [
+                107.55273088652012,
+                -7.006625153021545
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 131
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "spbu "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54488064427323,
+                -7.005765021653289
+              ],
+              [
+                107.5450233899299,
+                -7.005782194974515
+              ],
+              [
+                107.54507313462801,
+                -7.005333541757807
+              ],
+              [
+                107.54494120303684,
+                -7.005305635083971
+              ],
+              [
+                107.54488064427323,
+                -7.005765021653289
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 132
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "stasuin soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.51941599601935,
+            -7.026032471962964
+          ],
+          "type": "Point"
+        },
+        "id": 132
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "stasiun"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.52145968121391,
+                -7.026497299303543
+              ],
+              [
+                107.52397171093145,
+                -7.023919614555098
+              ],
+              [
+                107.52226863993747,
+                -7.0232434981571
+              ],
+              [
+                107.51928826569468,
+                -7.02556764415651
+              ],
+              [
+                107.51873476762262,
+                -7.025821186653857
+              ],
+              [
+                107.52145968121391,
+                -7.026497299303543
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 133
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sadu"
+        },
+        "geometry": {
+          "coordinates": [
+            107.510219430581,
+            -7.034948620172003
+          ],
+          "type": "Point"
+        },
+        "id": 124
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "karamatmulya"
+        },
+        "geometry": {
+          "coordinates": [
+            107.51775820353527,
+            -7.041041505267856
+          ],
+          "type": "Point"
+        },
+        "id": 125
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "panyirapan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.52544143443117,
+            -7.0398861570745055
+          ],
+          "type": "Point"
+        },
+        "id": 126
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl panyirapan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.52175501428883,
+              -7.049706526776546
+            ],
+            [
+              107.52357881152153,
+              -7.0476654478296155
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 127
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nengkelan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.4639488377693,
+            -7.063049311032344
+          ],
+          "type": "Point"
+        },
+        "id": 127
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sukawening"
+        },
+        "geometry": {
+          "coordinates": [
+            107.47556653085684,
+            -7.065703584063073
+          ],
+          "type": "Point"
+        },
+        "id": 128
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kantor kecamatan soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.51664118829626,
+            -7.0274976190627285
+          ],
+          "type": "Point"
+        },
+        "id": 137
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kantor kecamatan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.51631616051947,
+                -7.028212917953695
+              ],
+              [
+                107.51669771486723,
+                -7.028311096146453
+              ],
+              [
+                107.51698034771653,
+                -7.027553720977252
+              ],
+              [
+                107.51647160858613,
+                -7.027343338766357
+              ],
+              [
+                107.51631616051947,
+                -7.028212917953695
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 138
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rsud soreang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.51724884860516,
+            -7.026165196721479
+          ],
+          "type": "Point"
+        },
+        "id": 141
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl parungserab"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.53611434639123,
+              -7.011310019949121
+            ],
+            [
+              107.53537906018727,
+              -7.012680491514374
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 143
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " supermarket"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.54383031542454,
+              -7.015453646157354
+            ],
+            [
+              107.54369353233113,
+              -7.015305545370737
+            ],
+            [
+              107.54349279869865,
+              -7.015224442539363
+            ],
+            [
+              107.54324410216412,
+              -7.01516449695923
+            ],
+            [
+              107.54297053597583,
+              -7.015139813482506
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "matahari"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54555220855741,
+            -6.995450491055962
+          ],
+          "type": "Point"
+        },
+        "id": 144
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pabrik aero"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54565470353691,
+                -6.997037507374927
+              ],
+              [
+                107.54616717843015,
+                -6.996081228956584
+              ],
+              [
+                107.54493723868467,
+                -6.995653954987503
+              ],
+              [
+                107.5446092547532,
+                -6.996406770766171
+              ],
+              [
+                107.54565470353691,
+                -6.997037507374927
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 145
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pemakaman tni"
+        },
+        "geometry": {
+          "coordinates": [
+            107.55992472010144,
+            -6.982604429718705
+          ],
+          "type": "Point"
+        },
+        "id": 145
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "tpu tni"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5617491307226,
+                -6.982848593136666
+              ],
+              [
+                107.56099066788028,
+                -6.982400960105181
+              ],
+              [
+                107.55992472010144,
+                -6.982563735802501
+              ],
+              [
+                107.5591047602718,
+                -6.983621776456758
+              ],
+              [
+                107.56080617691839,
+                -6.982848593136666
+              ],
+              [
+                107.5617491307226,
+                -6.982848593136666
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 146
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rs lanud sulaiman"
+        },
+        "geometry": {
+          "coordinates": [
+            107.56443449916776,
+            -6.983560735714846
+          ],
+          "type": "Point"
+        },
+        "id": 147
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rs tni"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.56404501824693,
+                -6.983601429543313
+              ],
+              [
+                107.56353254335369,
+                -6.984944323907271
+              ],
+              [
+                107.56441400017059,
+                -6.985330913994773
+              ],
+              [
+                107.56537745297192,
+                -6.9839269800457515
+              ],
+              [
+                107.56404501824693,
+                -6.983601429543313
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 133
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sma negri 1 margahayu"
+        },
+        "geometry": {
+          "coordinates": [
+            107.56845229511771,
+            -6.97652064535221
+          ],
+          "type": "Point"
+        },
+        "id": 134
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "bangunan sekolah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.56769383227532,
+                -6.97652064535221
+              ],
+              [
+                107.56752984031061,
+                -6.97735488068551
+              ],
+              [
+                107.56912876197771,
+                -6.9777821713782515
+              ],
+              [
+                107.56906726499051,
+                -6.97652064535221
+              ],
+              [
+                107.56769383227532,
+                -6.97652064535221
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 135
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl tol seroja"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.53143118499247,
+              -7.012598943919201
+            ],
+            [
+              107.53250282713105,
+              -7.0092203564345965
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 149
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "stadion jalak"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.53182453474068,
+                -6.991826162188701
+              ],
+              [
+                107.5221123018544,
+                -6.991621055587643
+              ],
+              [
+                107.52066579908359,
+                -6.999073204272804
+              ],
+              [
+                107.53058467522283,
+                -7.000440558088243
+              ],
+              [
+                107.53182453474068,
+                -6.991826162188701
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 151
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa cobodas"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.51899252123451,
+                -6.990756297100518
+              ],
+              [
+                107.51633800097181,
+                -6.988094617918165
+              ],
+              [
+                107.51463152365898,
+                -6.991643520124271
+              ],
+              [
+                107.51885708652759,
+                -6.991509092501971
+              ],
+              [
+                107.51899252123451,
+                -6.990756297100518
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 151
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rs unggul medika"
+        },
+        "geometry": {
+          "coordinates": [
+            107.54891762225532,
+            -6.970341612137716
+          ],
+          "type": "Point"
+        },
+        "id": 151
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rs unggul karsa"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54908991147926,
+                -6.970779412517075
+              ],
+              [
+                107.54920017658355,
+                -6.97055367174778
+              ],
+              [
+                107.54971704425822,
+                -6.970156914980194
+              ],
+              [
+                107.5494965140494,
+                -6.970047464779341
+              ],
+              [
+                107.54871087518546,
+                -6.969568619845646
+              ],
+              [
+                107.54823535692486,
+                -6.970341612137716
+              ],
+              [
+                107.54908991147926,
+                -6.970779412517075
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 152
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jatisari"
+        },
+        "geometry": {
+          "coordinates": [
+            107.52481623715033,
+            -6.9811013006079605
+          ],
+          "type": "Point"
+        },
+        "id": 141
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "klinik jatisari"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5235503242339,
+                -6.980169735958
+              ],
+              [
+                107.52389954158957,
+                -6.980581357776913
+              ],
+              [
+                107.5242924111156,
+                -6.980992979232568
+              ],
+              [
+                107.52442336762431,
+                -6.98112296488047
+              ],
+              [
+                107.52601667181244,
+                -6.97973644944247
+              ],
+              [
+                107.52492536757501,
+                -6.978804882075593
+              ],
+              [
+                107.5235503242339,
+                -6.980169735958
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 153
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kantor kecamatan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5101890575857,
+                -7.032382564642489
+              ],
+              [
+                107.51116419772882,
+                -7.036464681000226
+              ],
+              [
+                107.51537878929201,
+                -7.036312997869729
+              ],
+              [
+                107.51409478461295,
+                -7.032865351769118
+              ],
+              [
+                107.5101890575857,
+                -7.032382564642489
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 153
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa kramat mulya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.51699907660571,
+                -7.037154786530664
+              ],
+              [
+                107.51536796198326,
+                -7.039561290870907
+              ],
+              [
+                107.51955358868861,
+                -7.041845007018907
+              ],
+              [
+                107.5210325109511,
+                -7.038637018534544
+              ],
+              [
+                107.51699907660571,
+                -7.037154786530664
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 154
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa panyirapan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.52664654307273,
+                -7.038572690494888
+              ],
+              [
+                107.52570058607364,
+                -7.041817897495704
+              ],
+              [
+                107.52815571386179,
+                -7.03969194629326
+              ],
+              [
+                107.52664654307273,
+                -7.038572690494888
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 155
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "bidan pipih"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5734901831803,
+                -7.051026167683219
+              ],
+              [
+                107.57125747398965,
+                -7.052278612587344
+              ],
+              [
+                107.57226034236402,
+                -7.053409731665695
+              ],
+              [
+                107.57477275590458,
+                -7.051815774445444
+              ],
+              [
+                107.5734901831803,
+                -7.051026167683219
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 156
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kiangroke"
+        },
+        "geometry": {
+          "coordinates": [
+            107.56879937643839,
+            -7.047074336498611
+          ],
+          "type": "Point"
+        },
+        "id": 156
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jl banjaran"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.57388535938617,
+              -7.045491957773834
+            ],
+            [
+              107.56602718883335,
+              -7.043989590710623
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 157
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gedung desa"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.57224370112777,
+                -7.04796530592813
+              ],
+              [
+                107.57290358436205,
+                -7.045630107714757
+              ],
+              [
+                107.56593692133714,
+                -7.044479389656246
+              ],
+              [
+                107.56556020189635,
+                -7.046385121313449
+              ],
+              [
+                107.57224370112777,
+                -7.04796530592813
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 158
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa nengkelan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.46502132796695,
+                -7.06316186572171
+              ],
+              [
+                107.46415805399181,
+                -7.063441019005424
+              ],
+              [
+                107.463427346027,
+                -7.064589520459322
+              ],
+              [
+                107.46514229499275,
+                -7.06503288549213
+              ],
+              [
+                107.46502132796695,
+                -7.06316186572171
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 159
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa sukawening"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.47593739606253,
+                -7.065065124474586
+              ],
+              [
+                107.47535107038749,
+                -7.064282567253457
+              ],
+              [
+                107.47377058787532,
+                -7.065242045739012
+              ],
+              [
+                107.47457961006302,
+                -7.066464183836217
+              ],
+              [
+                107.47593739606253,
+                -7.065065124474586
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 160
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "minimart"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54145697156497,
+                -7.001114787446326
+              ],
+              [
+                107.54160670571332,
+                -6.999668718337645
+              ],
+              [
+                107.53957924041225,
+                -6.999267543886248
+              ],
+              [
+                107.5392681277985,
+                -7.000684317544568
+              ],
+              [
+                107.54145697156497,
+                -7.001114787446326
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 161
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "minimart"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.54099375132256,
+                -7.003447480071415
+              ],
+              [
+                107.53961869723702,
+                -7.0035785793383525
+              ],
+              [
+                107.53932590321602,
+                -7.005710453727431
+              ],
+              [
+                107.54107607345321,
+                -7.006077836186051
+              ],
+              [
+                107.54099375132256,
+                -7.003447480071415
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 162
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "restoran"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59230068269358,
+                -7.018421609547758
+              ],
+              [
+                107.59113781185005,
+                -7.016645812763002
+              ],
+              [
+                107.58687642088506,
+                -7.017972778684566
+              ],
+              [
+                107.5896432435286,
+                -7.019482453780952
+              ],
+              [
+                107.59230068269358,
+                -7.018421609547758
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 163
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "rancamanyar"
+        },
+        "geometry": {
+          "coordinates": [
+            107.60869880826948,
+            -7.0118058650819535
+          ],
+          "type": "Point"
+        },
+        "id": 164
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasar rancamanyar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60853694436736,
+                -7.011530236146513
+              ],
+              [
+                107.61019080618615,
+                -7.0089986487158455
+              ],
+              [
+                107.6090000749627,
+                -7.008536240429365
+              ],
+              [
+                107.60684620046277,
+                -7.010607692029254
+              ],
+              [
+                107.60853694436736,
+                -7.011530236146513
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 165
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sayati"
+        },
+        "geometry": {
+          "coordinates": [
+            107.57841308973224,
+            -6.975013758289236
+          ],
+          "type": "Point"
+        },
+        "id": 166
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "sukamenak"
+        },
+        "geometry": {
+          "coordinates": [
+            107.5841912105239,
+            -6.976174997957685
+          ],
+          "type": "Point"
+        },
+        "id": 167
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cangkuang kulon"
+        },
+        "geometry": {
+          "coordinates": [
+            107.59336103441558,
+            -6.976284708551816
+          ],
+          "type": "Point"
+        },
+        "id": 168
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cangkuang wetan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.6035589131759,
+            -6.977126137173627
+          ],
+          "type": "Point"
+        },
+        "id": 160
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "cibaduyut wetan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.60281039693291,
+            -6.964709891458426
+          ],
+          "type": "Point"
+        },
+        "id": 172
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "toko sepatu"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59851188329566,
+                -6.9659495347288924
+              ],
+              [
+                107.59926406943225,
+                -6.962831592424706
+              ],
+              [
+                107.5977892844096,
+                -6.9625959019942485
+              ],
+              [
+                107.59735404700245,
+                -6.965659165136202
+              ],
+              [
+                107.59851188329566,
+                -6.9659495347288924
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 173
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "toko tas kulit"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60742401081518,
+                -6.965178797816492
+              ],
+              [
+                107.60716171734254,
+                -6.963271459478932
+              ],
+              [
+                107.60402749457774,
+                -6.964065152604448
+              ],
+              [
+                107.60382531761041,
+                -6.965775937385288
+              ],
+              [
+                107.60742401081518,
+                -6.965178797816492
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 174
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasar cirangrang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5892010012684,
+                -6.964852291347555
+              ],
+              [
+                107.58985012442787,
+                -6.96378377105647
+              ],
+              [
+                107.58673550842337,
+                -6.963506875245599
+              ],
+              [
+                107.58637245052319,
+                -6.964162403264822
+              ],
+              [
+                107.5892010012684,
+                -6.964852291347555
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 175
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasar sayati"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5800617429,
+                -6.974832166952723
+              ],
+              [
+                107.57971577717478,
+                -6.9727653913087835
+              ],
+              [
+                107.5758815089448,
+                -6.973063244460434
+              ],
+              [
+                107.57598083897199,
+                -6.974540164637858
+              ],
+              [
+                107.5800617429,
+                -6.974832166952723
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 176
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "pasar sukamenak"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.58675544534776,
+                -6.975582491327117
+              ],
+              [
+                107.58798711158528,
+                -6.970563720204666
+              ],
+              [
+                107.58447209063564,
+                -6.971320330046382
+              ],
+              [
+                107.58378145540473,
+                -6.974016534379885
+              ],
+              [
+                107.58675544534776,
+                -6.975582491327117
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 177
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "lanud sulaiman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.57597660418412,
+                -6.986659188945708
+              ],
+              [
+                107.57817290790894,
+                -6.984557033831635
+              ],
+              [
+                107.56550199254372,
+                -6.977415149316343
+              ],
+              [
+                107.56387573682366,
+                -6.979316228840332
+              ],
+              [
+                107.57597660418412,
+                -6.986659188945708
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 178
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "borma toserba katapang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.55538959465423,
+                -6.997846675004354
+              ],
+              [
+                107.55767646628055,
+                -6.997444260899115
+              ],
+              [
+                107.55805891490519,
+                -6.9945800255626835
+              ],
+              [
+                107.55575868405515,
+                -6.994178466358207
+              ],
+              [
+                107.55538959465423,
+                -6.997846675004354
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 179
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "superindo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.5846210258104,
+                -7.014611629353979
+              ],
+              [
+                107.5843789519223,
+                -7.0138540977181805
+              ],
+              [
+                107.5835781515774,
+                -7.013792416633663
+              ],
+              [
+                107.5838033123481,
+                -7.014665809078167
+              ],
+              [
+                107.5846210258104,
+                -7.014611629353979
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 180
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa langorsari"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.59572508437537,
+                -7.02866608804203
+              ],
+              [
+                107.5957559843419,
+                -7.028458995777257
+              ],
+              [
+                107.59528148327558,
+                -7.0283728598450494
+              ],
+              [
+                107.5952646845771,
+                -7.02854285572738
+              ],
+              [
+                107.59572508437537,
+                -7.02866608804203
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 181
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "kantor desa lebakwangi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.60558937471427,
+                -7.048669868028213
+              ],
+              [
+                107.60603758496535,
+                -7.0467205697696755
+              ],
+              [
+                107.60159213112587,
+                -7.046384498811051
+              ],
+              [
+                107.60135002683711,
+                -7.048341781396786
+              ],
+              [
+                107.60558937471427,
+                -7.048669868028213
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 182
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "desa cilame"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.49667889555951,
+                -7.0364788438854475
+              ],
+              [
+                107.49949306670283,
+                -7.035012197038569
+              ],
+              [
+                107.49726590221275,
+                -7.033973614133501
+              ],
+              [
+                107.49437466271894,
+                -7.034294498949194
+              ],
+              [
+                107.49667889555951,
+                -7.0364788438854475
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 183
+      }
+    ]
+  }
